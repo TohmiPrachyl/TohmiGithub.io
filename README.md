@@ -1,2 +1,2 @@
 # TohmiGithub.io
-This project is a simple website to display my prodject portfolio.
+This project is a simple website to display my project portfolio.
